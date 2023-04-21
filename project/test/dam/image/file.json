@@ -1,7 +1,7 @@
 {
-  "butterfly": {
+  "butterfly.jpg": {
     "md5": "5522531ff60819b62433b9af0b705af7",
-    "meta": {
+    "metadata": {
       "type": "image",
       "width": 426,
       "height": 640
@@ -17,6 +17,20 @@
       "photography", "portrait",
       "tree",        "vegetation",
       "woman",       "woodland"
-    ]
+    ],
+    "markup": {
+      "comment": {
+
+      },
+      "label": {
+
+      },
+      "annotation": {
+
+      },
+      "focal_point": {
+
+      }
+    }
   }
 }
