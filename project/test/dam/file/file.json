@@ -2,6 +2,9 @@
   "5522531ff60819b62433b9af0b705af7": {
     "cloudinary": {
       "url": "https://res.cloudinary.com/dnby43njh/image/upload/v1682063032/butterfly.jpg.jpg"
+    },
+    "oss": {
+      "url": "https://dingyi-1301051397.cos.ap-shanghai.myqcloud.com/0ec055cdd7f3766f942d06c00.jpg"
     }
   }
 }
