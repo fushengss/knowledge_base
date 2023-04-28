@@ -2,4 +2,4 @@
 
 - [google indexer]()
 - [azure_video_indexer]()
-- [google_video_tagging](https://github.com/fushengss/knowledge_base)
+- [google_video_tagging](https://github.com/fushengss/knowledge_base/blob/main/project/test/dam/video/cloudinary/google_video_tagging/23dfb4347e058b73dddc68da7a4ba374.json)
