@@ -2,3 +2,4 @@
 
 - [google indexer]()
 - [azure_video_indexer]()
+- [google_video_tagging]()
